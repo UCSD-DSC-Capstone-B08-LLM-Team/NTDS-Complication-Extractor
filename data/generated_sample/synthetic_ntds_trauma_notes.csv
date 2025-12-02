@@ -1,0 +1,35 @@
+encounter_id,age,sex,mechanism,iss,icu_los_days,vent_days,ever_ventilated,note_text,aki,aws,ards,cardiac_arrest_cpr,cauti,delirium,dvt,mi,osteomyelitis,pressure_ulcer,pe,severe_sepsis,stroke_cva,superficial_ssi,unplanned_icu_admission,unplanned_intubation,unplanned_or_visit,vap
+0,79,M,a fall from height,17,2,0,0,"ED TRAUMA H&P:
+79-year-old male was brought in by EMS after a fall from height. On arrival to the trauma bay, initial vital signs showed heart rate 97 bpm, systolic blood pressure 120 mmHg (MAP approximately 90), respiratory rate in the mid 20s, and oxygen saturation 95% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,54,F,a fall from height,25,6,0,0,"ED TRAUMA H&P:
+54-year-old female was brought in by EMS after a fall from height. On arrival to the trauma bay, initial vital signs showed heart rate 91 bpm, systolic blood pressure 118 mmHg (MAP approximately 88), respiratory rate in the mid 20s, and oxygen saturation 96% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. cardiology consulted for in-hospital myocardial infarction
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. new stage 2 sacral pressure ulcer identified during skin check
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
