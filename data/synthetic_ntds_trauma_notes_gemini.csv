@@ -1,0 +1,857 @@
+encounter_id,age,sex,mechanism,iss,icu_los_days,vent_days,ever_ventilated,note_text,aki,aws,ards,cardiac_arrest_cpr,cauti,delirium,dvt,mi,osteomyelitis,pressure_ulcer,pe,severe_sepsis,stroke_cva,superficial_ssi,unplanned_icu_admission,unplanned_intubation,unplanned_or_visit,vap
+0,79,M,a fall from height,17,2,0,0,"**ED TRAUMA H&P:**
+This 79-year-old male was brought to the trauma bay via EMS after a significant fall from a height of approximately 15 feet while working on his roof. Per EMS report, he was found alert but confused at the scene by family and complained of diffuse body pain. On arrival, initial vital signs were heart rate 97 bpm, blood pressure 120/78 mmHg (MAP 92 mmHg), respiratory rate 22 breaths/min, and oxygen saturation 95% on a 4L nasal cannula, later titrated to 6L to maintain saturation >94%.
+
+Primary survey was completed rapidly per ATLS protocol. Airway was patent and protected. Breath sounds were clear bilaterally, though shallow, with no obvious respiratory distress. Cardiovascularly, peripheral pulses were palpable and strong, skin was warm and dry, capillary refill brisk. Neurologically, he presented with a GCS of 14 (E4V4M6), oriented to person but confused to place and time, without obvious focal deficits upon initial assessment. Gross deformities were noted to his right chest wall and left pelvic region. FAST exam was negative. Given the high-energy mechanism and initial presentation, the patient was deemed a Level 1 trauma activation. Two large-bore IVs were established, initial labs sent, and he received a 1L crystalloid bolus in the ED.
+
+CT imaging from head to pelvis demonstrated multiple injuries consistent with severe blunt trauma, including comminuted bilateral rib fractures (R: 5-9, L: 6-8), a nondisplaced pelvic rami fracture on the left, a T10 compression fracture, and a small, stable right frontal subarachnoid hemorrhage. No other acute intracranial pathologies or intra-abdominal solid organ injuries were identified. Given his age, significant injury burden, and the subarachnoid hemorrhage, the decision was made for admission to the Trauma ICU for close monitoring and management.
+
+**ICU DAY 1 PROGRESS NOTE:**
+On ICU Day 1, the patient remained hemodynamically tenuous, requiring careful fluid management. His blood pressure fluctuated, largely responsive to crystalloid boluses totaling 2L, without the need for vasopressor support. Persistent mild confusion (GCS 13-14) was noted, prompting q2h neuro checks, which remained stable without pupillary changes or worsening focal deficits. Pain was significant due to his extensive fractures and was managed with a multimodal analgesia strategy, including scheduled acetaminophen, gabapentin, and titrated IV hydromorphone boluses, which provided reasonable comfort while avoiding oversedation. Ventilatory support included supplemental oxygen via nasal cannula, maintaining SpO2 >92% with a respiratory rate ranging from 18-24 breaths/min. Aggressive pulmonary toileting with incentive spirometry was initiated. Invasive monitoring with an arterial line was placed for continuous blood pressure surveillance. Strict input/output monitoring was maintained via Foley catheter. Initial laboratory trends showed a stable hemoglobin and creatinine. Prophylactic low molecular weight heparin (LMWH) and proton pump inhibitor (PPI) were initiated.
+
+**ICU DAY 2 PROGRESS NOTE:**
+The patient's overall status showed gradual improvement on ICU Day 2. Hemodynamically, he became more stable, no longer requiring fluid boluses, and his blood pressure maintained within target range. Respiratory function continued to be a focus; his oxygen requirements remained at 4L NC, and he tolerated periods off oxygen with close monitoring. Chest physiotherapy and incentive spirometry efforts were reinforced. Cardiovascular monitoring remained crucial, with no new arrhythmias or signs of cardiac strain. Renal function remained stable with adequate urine output (average 0.8 ml/kg/hr) and stable creatinine. A comprehensive review of his injury pattern confirmed the decision for non-operative management of his rib, pelvic, and vertebral fractures. Empiric antibiotic therapy, initially started due to the high-energy mechanism and potential for occult injuries, was reassessed based on negative cultures and clinical stability, and subsequently discontinued. Venous thromboembolism prophylaxis with LMWH and sequential compression devices (SCDs) was confirmed as appropriate and continued. Early enteral nutrition was initiated via nasogastric tube, with good tolerance.
+
+**ICU DAY 3 PROGRESS NOTE:**
+ICU Day 3 marked significant progress towards stabilization. He was hemodynamically stable without any pressor support or fluid boluses, maintaining mean arterial pressures consistently above 80 mmHg. Respiratory efforts continued to improve, allowing for successful weaning to room air for prolonged periods. His pain was well-controlled with oral analgesics (oxycodone and acetaminophen) and he was more alert and oriented, with GCS consistently at 15. The team focused on early mobilization; physical therapy initiated bedside evaluations and assisted the patient out of bed to a chair for short periods, which he tolerated well. He was able to participate in basic activities of daily living with assistance. Given his sustained hemodynamic stability, improving respiratory function, stable neurological status, and manageable pain control, the patient was deemed eligible for transfer to the trauma ward for continued recovery.
+
+**WARD / FLOOR COURSE:**
+Following transfer out of the ICU, the patient continued a remarkable recovery on the trauma ward. Pain control transitioned smoothly to an oral regimen, which was effectively managed with a combination of scheduled Tylenol and PRN oxycodone. Physical therapy became more intensive, focusing on ambulation, strengthening exercises, and improving his range of motion. He progressed from walking with a rolling walker for short distances to ambulating independently with a cane by the end of his ward stay. Occupational therapy worked on adaptive strategies for ADLs, which he quickly mastered.
+
+Close monitoring for hospital-acquired complications was emphasized throughout his ward course. Nursing notes consistently described his gradual improvement in mobility and increasing participation in self-care. He remained afebrile, without signs of respiratory compromise or new neurological deficits. Daily assessments for deep vein thrombosis (DVT), pneumonia, urinary tract infection (UTI), and delirium were consistently negative. His skin integrity remained intact, and bowel function normalized. Nutritional intake was robust, and he regained his appetite. Social work collaborated closely with the patient and family to plan for a safe discharge, arranging for home health services and necessary equipment.
+
+**DISCHARGE SUMMARY:**
+At the time of discharge, this 79-year-old male demonstrated an excellent recovery from his significant fall from height and associated injuries, which included multiple bilateral rib fractures, a nondisplaced left pelvic rami fracture, a T10 compression fracture, and a small subarachnoid hemorrhage. His entire hospital course was managed non-operatively, highlighting his resilience and the effectiveness of conservative treatment for his specific injury pattern. He successfully navigated his critical care stay without requiring prolonged mechanical ventilation or vasopressor support, and his neurological status returned to baseline. No significant complications, such as pneumonia, DVT/PE, delirium, or skin breakdown, were encountered throughout his hospitalization. He was discharged home with his family, ambulating independently with a cane, tolerating a regular diet, and managing his pain effectively with oral medications. A detailed discharge medication list and care instructions were provided. Follow-up appointments were arranged with Trauma Surgery for overall injury management, Orthopedic Surgery for his pelvic and vertebral fractures, and a dedicated outpatient physical therapy program to ensure continued strength and mobility gains.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,54,F,a fall from height,25,6,0,0,"ED TRAUMA H&P:
+54-year-old female was brought in by EMS after a fall from height. On arrival to the trauma bay, initial vital signs showed heart rate 91 bpm, systolic blood pressure 118 mmHg (MAP approximately 88), respiratory rate in the mid 20s, and oxygen saturation 96% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. cardiology consulted for in-hospital myocardial infarction
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. new stage 2 sacral pressure ulcer identified during skin check
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+2,39,M,a motorcycle collision,9,2,0,0,"ED TRAUMA H&P:
+39-year-old male was brought in by EMS after a motorcycle collision. On arrival to the trauma bay, initial vital signs showed heart rate 116 bpm, systolic blood pressure 106 mmHg (MAP approximately 80), respiratory rate in the mid 20s, and oxygen saturation 95% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,62,M,a motorcycle collision,34,4,3,1,"ED TRAUMA H&P:
+62-year-old male was brought in by EMS after a motorcycle collision. On arrival to the trauma bay, initial vital signs showed heart rate 109 bpm, systolic blood pressure 115 mmHg (MAP approximately 86), respiratory rate in the mid 20s, and oxygen saturation 98% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. neurology consulted for in-hospital CVA
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. met Berlin criteria for ARDS with low PaO2/FiO2 ratio
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. started antibiotics for superficial incisional infection
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. worsening hypoxemia with bilateral infiltrates consistent with ARDS preexisting ulcer progressed to a higher stage while inpatient new onset focal neurologic deficit with CT showing acute stroke",0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+4,62,M,a motorcycle collision,30,9,0,0,"ED TRAUMA H&P:
+62-year-old male was brought in by EMS after a motorcycle collision. On arrival to the trauma bay, initial vital signs showed heart rate 93 bpm, systolic blood pressure 82 mmHg (MAP approximately 64), respiratory rate in the mid 20s, and oxygen saturation 96% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. required escalation of care and unplanned ICU transfer
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. unplanned admission to ICU due to respiratory failure
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+5,75,M,being struck as a pedestrian,10,2,2,1,"ED TRAUMA H&P:
+75-year-old male was brought in by EMS after being struck as a pedestrian. On arrival to the trauma bay, initial vital signs showed heart rate 114 bpm, systolic blood pressure 109 mmHg (MAP approximately 82), respiratory rate in the mid 20s, and oxygen saturation 98% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. fever and new infiltrate on CXR in a ventilated patient, diagnosed as VAP
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends. started antibiotics for suspected VAP after several days of mechanical ventilation
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,85,M,a fall from height,11,9,0,0,"ED TRAUMA H&P:
+85-year-old male was brought in by EMS after a fall from height. On arrival to the trauma bay, initial vital signs showed heart rate 90 bpm, systolic blood pressure 103 mmHg (MAP approximately 78), respiratory rate in the mid 20s, and oxygen saturation 98% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. broad-spectrum antibiotics and fluid resuscitation started for severe sepsis
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. broad-spectrum antibiotics and fluid resuscitation started for severe sepsis
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends. oliguria requiring nephrology consultation duplex ultrasound positive for femoral DVT
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. returned to the OR unexpectedly for postoperative bleeding control
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. started therapeutic anticoagulation for lower extremity DVT",1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0
+7,70,F,being struck as a pedestrian,34,2,0,0,"ED TRAUMA H&P:
+70-year-old female was brought in by EMS after being struck as a pedestrian. On arrival to the trauma bay, initial vital signs showed heart rate 124 bpm, systolic blood pressure 84 mmHg (MAP approximately 66), respiratory rate in the mid 20s, and oxygen saturation 99% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,86,M,a fall from height,34,4,3,1,"ED TRAUMA H&P:
+86-year-old male was brought in by EMS after a fall from height. On arrival to the trauma bay, initial vital signs showed heart rate 111 bpm, systolic blood pressure 112 mmHg (MAP approximately 84), respiratory rate in the mid 20s, and oxygen saturation 93% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. worsening hypoxemia with bilateral infiltrates consistent with ARDS
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends. remains intubated on lung-protective ventilation for ARDS
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. started antibiotics for superficial incisional infection patient transferred unexpectedly from floor to ICU for deterioration
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. started antibiotics for superficial incisional infection",0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+9,72,M,an assault with blunt trauma,33,5,0,0,"ED TRAUMA H&P:
+72-year-old male was brought in by EMS after an assault with blunt trauma. On arrival to the trauma bay, initial vital signs showed heart rate 123 bpm, systolic blood pressure 111 mmHg (MAP approximately 84), respiratory rate in the mid 20s, and oxygen saturation 88% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,42,M,an assault with blunt trauma,34,3,0,0,"ED TRAUMA H&P:
+42-year-old male was brought in by EMS after an assault with blunt trauma. On arrival to the trauma bay, initial vital signs showed heart rate 98 bpm, systolic blood pressure 124 mmHg (MAP approximately 92), respiratory rate in the mid 20s, and oxygen saturation 90% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. started antibiotics for CAUTI after positive urine studies
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,38,M,an assault with blunt trauma,23,8,7,1,"ED TRAUMA H&P:
+38-year-old male was brought in by EMS after an assault with blunt trauma. On arrival to the trauma bay, initial vital signs showed heart rate 115 bpm, systolic blood pressure 115 mmHg (MAP approximately 86), respiratory rate in the mid 20s, and oxygen saturation 99% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. diagnosed with non-ST elevation myocardial infarction during stay
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends. fever and new infiltrate on CXR in a ventilated patient, diagnosed as VAP
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+12,79,M,being struck as a pedestrian,19,8,0,0,"ED TRAUMA H&P:
+79-year-old male was brought in by EMS after being struck as a pedestrian. On arrival to the trauma bay, initial vital signs showed heart rate 121 bpm, systolic blood pressure 100 mmHg (MAP approximately 76), respiratory rate in the mid 20s, and oxygen saturation 98% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. CT angiogram of the chest showed segmental pulmonary embolism
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+13,44,M,a rollover motor vehicle crash,25,9,0,0,"ED TRAUMA H&P:
+44-year-old male was brought in by EMS after a rollover motor vehicle crash. On arrival to the trauma bay, initial vital signs showed heart rate 121 bpm, systolic blood pressure 86 mmHg (MAP approximately 67), respiratory rate in the mid 20s, and oxygen saturation 88% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. met criteria for septic shock requiring vasopressors
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+14,45,M,a rollover motor vehicle crash,21,6,0,0,"ED TRAUMA H&P:
+45-year-old male was brought in by EMS after a rollover motor vehicle crash. On arrival to the trauma bay, initial vital signs showed heart rate 115 bpm, systolic blood pressure 97 mmHg (MAP approximately 74), respiratory rate in the mid 20s, and oxygen saturation 94% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. developed severe sepsis with hypotension and elevated lactate required escalation of care and unplanned ICU transfer
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. broad-spectrum antibiotics and fluid resuscitation started for severe sepsis
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. MRI confirmed osteomyelitis of the affected bone required escalation of care and unplanned ICU transfer
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. MRI confirmed osteomyelitis of the affected bone",0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0
+15,71,F,an assault with blunt trauma,15,2,0,0,"ED TRAUMA H&P:
+71-year-old female was brought in by EMS after an assault with blunt trauma. On arrival to the trauma bay, initial vital signs showed heart rate 116 bpm, systolic blood pressure 82 mmHg (MAP approximately 64), respiratory rate in the mid 20s, and oxygen saturation 96% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,30,M,an assault with blunt trauma,32,6,0,0,"ED TRAUMA H&P:
+30-year-old male was brought in by EMS after an assault with blunt trauma. On arrival to the trauma bay, initial vital signs showed heart rate 102 bpm, systolic blood pressure 84 mmHg (MAP approximately 66), respiratory rate in the mid 20s, and oxygen saturation 94% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. preexisting ulcer progressed to a higher stage while inpatient
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. started antibiotics for superficial incisional infection",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+17,71,M,an assault with blunt trauma,34,4,0,0,"ED TRAUMA H&P:
+71-year-old male was brought in by EMS after an assault with blunt trauma. On arrival to the trauma bay, initial vital signs showed heart rate 104 bpm, systolic blood pressure 113 mmHg (MAP approximately 85), respiratory rate in the mid 20s, and oxygen saturation 94% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,65,M,a fall from height,31,9,0,0,"ED TRAUMA H&P:
+65-year-old male was brought in by EMS after a fall from height. On arrival to the trauma bay, initial vital signs showed heart rate 110 bpm, systolic blood pressure 104 mmHg (MAP approximately 79), respiratory rate in the mid 20s, and oxygen saturation 94% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,40,M,a rollover motor vehicle crash,33,4,0,0,"ED TRAUMA H&P:
+40-year-old male was brought in by EMS after a rollover motor vehicle crash. On arrival to the trauma bay, initial vital signs showed heart rate 105 bpm, systolic blood pressure 128 mmHg (MAP approximately 95), respiratory rate in the mid 20s, and oxygen saturation 98% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. treated with benzodiazepines for withdrawal symptoms
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,27,F,being struck as a pedestrian,16,3,0,0,"ED TRAUMA H&P:
+27-year-old female was brought in by EMS after being struck as a pedestrian. On arrival to the trauma bay, initial vital signs showed heart rate 95 bpm, systolic blood pressure 83 mmHg (MAP approximately 65), respiratory rate in the mid 20s, and oxygen saturation 90% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,66,M,a fall from height,10,2,2,1,"ED TRAUMA H&P:
+66-year-old male was brought in by EMS after a fall from height. On arrival to the trauma bay, initial vital signs showed heart rate 118 bpm, systolic blood pressure 81 mmHg (MAP approximately 64), respiratory rate in the mid 20s, and oxygen saturation 93% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends. worsening hypoxemia with bilateral infiltrates consistent with ARDS
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. worsening hypoxemia with bilateral infiltrates consistent with ARDS",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,59,M,being struck as a pedestrian,30,8,6,1,"ED TRAUMA H&P:
+59-year-old male was brought in by EMS after being struck as a pedestrian. On arrival to the trauma bay, initial vital signs showed heart rate 109 bpm, systolic blood pressure 121 mmHg (MAP approximately 90), respiratory rate in the mid 20s, and oxygen saturation 97% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. diagnosed with catheter-associated urinary tract infection started antibiotics for suspected VAP after several days of mechanical ventilation
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends. fever and new infiltrate on CXR in a ventilated patient, diagnosed as VAP
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. started antibiotics for CAUTI after positive urine studies
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+23,45,M,being struck as a pedestrian,34,2,2,1,"ED TRAUMA H&P:
+45-year-old male was brought in by EMS after being struck as a pedestrian. On arrival to the trauma bay, initial vital signs showed heart rate 122 bpm, systolic blood pressure 115 mmHg (MAP approximately 86), respiratory rate in the mid 20s, and oxygen saturation 91% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. rapid response team called and patient intubated unexpectedly
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. initiated dialysis for new renal failure unplanned intubation due to airway compromise
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. oliguria requiring nephrology consultation",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+24,48,M,a fall from height,33,5,0,0,"ED TRAUMA H&P:
+48-year-old male was brought in by EMS after a fall from height. On arrival to the trauma bay, initial vital signs showed heart rate 107 bpm, systolic blood pressure 117 mmHg (MAP approximately 88), respiratory rate in the mid 20s, and oxygen saturation 91% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,32,F,a high-speed motor vehicle collision,16,3,0,0,"ED TRAUMA H&P:
+32-year-old female was brought in by EMS after a high-speed motor vehicle collision. On arrival to the trauma bay, initial vital signs showed heart rate 118 bpm, systolic blood pressure 125 mmHg (MAP approximately 93), respiratory rate in the mid 20s, and oxygen saturation 91% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. cardiology consulted for in-hospital myocardial infarction met criteria for septic shock requiring vasopressors
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. elevated troponin with ST-segment changes consistent with MI MRI brain demonstrated acute infarct during hospitalization
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. long-term IV antibiotics started for new osteomyelitis unplanned trip to the operating room for washout of infected wound
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0
+26,88,F,a high-speed motor vehicle collision,16,2,2,1,"ED TRAUMA H&P:
+88-year-old female was brought in by EMS after a high-speed motor vehicle collision. On arrival to the trauma bay, initial vital signs showed heart rate 123 bpm, systolic blood pressure 119 mmHg (MAP approximately 89), respiratory rate in the mid 20s, and oxygen saturation 94% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. remains intubated on lung-protective ventilation for ARDS started therapeutic anticoagulation for new PE MRI brain demonstrated acute infarct during hospitalization
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. met Berlin criteria for ARDS with low PaO2/FiO2 ratio MRI brain demonstrated acute infarct during hospitalization",0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+27,73,F,a high-speed motor vehicle collision,14,4,0,0,"ED TRAUMA H&P:
+73-year-old female was brought in by EMS after a high-speed motor vehicle collision. On arrival to the trauma bay, initial vital signs showed heart rate 129 bpm, systolic blood pressure 123 mmHg (MAP approximately 92), respiratory rate in the mid 20s, and oxygen saturation 89% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,41,F,a motorcycle collision,33,3,2,1,"ED TRAUMA H&P:
+41-year-old female was brought in by EMS after a motorcycle collision. On arrival to the trauma bay, initial vital signs showed heart rate 115 bpm, systolic blood pressure 96 mmHg (MAP approximately 74), respiratory rate in the mid 20s, and oxygen saturation 95% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. placed on alcohol withdrawal protocol with high CIWA scores
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. fever and new infiltrate on CXR in a ventilated patient, diagnosed as VAP
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends. respiratory culture positive with clinical findings consistent with ventilator-associated pneumonia
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+29,63,F,an assault with blunt trauma,9,6,0,0,"ED TRAUMA H&P:
+63-year-old female was brought in by EMS after an assault with blunt trauma. On arrival to the trauma bay, initial vital signs showed heart rate 121 bpm, systolic blood pressure 107 mmHg (MAP approximately 81), respiratory rate in the mid 20s, and oxygen saturation 93% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,27,F,being struck as a pedestrian,33,6,0,0,"ED TRAUMA H&P:
+27-year-old female was brought in by EMS after being struck as a pedestrian. On arrival to the trauma bay, initial vital signs showed heart rate 99 bpm, systolic blood pressure 86 mmHg (MAP approximately 67), respiratory rate in the mid 20s, and oxygen saturation 94% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. broad-spectrum antibiotics and fluid resuscitation started for severe sepsis
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+31,72,M,an assault with blunt trauma,18,3,0,0,"ED TRAUMA H&P:
+72-year-old male was brought in by EMS after an assault with blunt trauma. On arrival to the trauma bay, initial vital signs showed heart rate 102 bpm, systolic blood pressure 88 mmHg (MAP approximately 68), respiratory rate in the mid 20s, and oxygen saturation 96% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. CT angiogram of the chest showed segmental pulmonary embolism
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends. CT angiogram of the chest showed segmental pulmonary embolism
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+32,78,M,being struck as a pedestrian,31,7,0,0,"ED TRAUMA H&P:
+78-year-old male was brought in by EMS after being struck as a pedestrian. On arrival to the trauma bay, initial vital signs showed heart rate 90 bpm, systolic blood pressure 88 mmHg (MAP approximately 68), respiratory rate in the mid 20s, and oxygen saturation 94% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. long-term IV antibiotics started for new osteomyelitis",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+33,88,M,a high-speed motor vehicle collision,21,5,0,0,"ED TRAUMA H&P:
+88-year-old male was brought in by EMS after a high-speed motor vehicle collision. On arrival to the trauma bay, initial vital signs showed heart rate 115 bpm, systolic blood pressure 85 mmHg (MAP approximately 66), respiratory rate in the mid 20s, and oxygen saturation 96% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. diagnosed with non-ST elevation myocardial infarction during stay
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+34,64,M,a fall from height,32,2,0,0,"ED TRAUMA H&P:
+64-year-old male was brought in by EMS after a fall from height. On arrival to the trauma bay, initial vital signs showed heart rate 105 bpm, systolic blood pressure 127 mmHg (MAP approximately 94), respiratory rate in the mid 20s, and oxygen saturation 89% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,47,F,an assault with blunt trauma,29,5,0,0,"ED TRAUMA H&P:
+47-year-old female was brought in by EMS after an assault with blunt trauma. On arrival to the trauma bay, initial vital signs showed heart rate 126 bpm, systolic blood pressure 107 mmHg (MAP approximately 81), respiratory rate in the mid 20s, and oxygen saturation 97% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. MRI brain demonstrated acute infarct during hospitalization
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. new upper extremity DVT around central line started antibiotics for superficial incisional infection
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. neurology consulted for in-hospital CVA started antibiotics for superficial incisional infection",0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+36,24,M,an assault with blunt trauma,17,6,0,0,"ED TRAUMA H&P:
+24-year-old male was brought in by EMS after an assault with blunt trauma. On arrival to the trauma bay, initial vital signs showed heart rate 121 bpm, systolic blood pressure 127 mmHg (MAP approximately 94), respiratory rate in the mid 20s, and oxygen saturation 95% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. ventricular fibrillation arrest treated with ACLS and defibrillation
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. return of spontaneous circulation after in-hospital cardiac arrest
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. MRI confirmed osteomyelitis of the affected bone
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. long-term IV antibiotics started for new osteomyelitis",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+37,26,M,an assault with blunt trauma,12,4,0,0,"ED TRAUMA H&P:
+26-year-old male was brought in by EMS after an assault with blunt trauma. On arrival to the trauma bay, initial vital signs showed heart rate 121 bpm, systolic blood pressure 89 mmHg (MAP approximately 69), respiratory rate in the mid 20s, and oxygen saturation 90% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. duplex ultrasound positive for femoral DVT
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. new upper extremity DVT around central line",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+38,72,M,a rollover motor vehicle crash,25,7,0,0,"ED TRAUMA H&P:
+72-year-old male was brought in by EMS after a rollover motor vehicle crash. On arrival to the trauma bay, initial vital signs showed heart rate 121 bpm, systolic blood pressure 106 mmHg (MAP approximately 80), respiratory rate in the mid 20s, and oxygen saturation 94% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. started delirium precautions and nonpharmacologic measures started therapeutic anticoagulation for new PE
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends. intermittently disoriented and confused, diagnosed with delirium CT angiogram of the chest showed segmental pulmonary embolism
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+39,87,F,a rollover motor vehicle crash,22,3,0,0,"ED TRAUMA H&P:
+87-year-old female was brought in by EMS after a rollover motor vehicle crash. On arrival to the trauma bay, initial vital signs showed heart rate 108 bpm, systolic blood pressure 115 mmHg (MAP approximately 86), respiratory rate in the mid 20s, and oxygen saturation 97% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. MRI brain demonstrated acute infarct during hospitalization
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. developed fever and dysuria with positive urine culture while catheterized
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+40,60,F,a fall from height,31,5,0,0,"ED TRAUMA H&P:
+60-year-old female was brought in by EMS after a fall from height. On arrival to the trauma bay, initial vital signs showed heart rate 115 bpm, systolic blood pressure 123 mmHg (MAP approximately 92), respiratory rate in the mid 20s, and oxygen saturation 99% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,21,M,a high-speed motor vehicle collision,13,9,0,0,"ED TRAUMA H&P:
+21-year-old male was brought in by EMS after a high-speed motor vehicle collision. On arrival to the trauma bay, initial vital signs showed heart rate 110 bpm, systolic blood pressure 87 mmHg (MAP approximately 68), respiratory rate in the mid 20s, and oxygen saturation 97% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. elevated troponin with ST-segment changes consistent with MI
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. started therapeutic anticoagulation for new PE
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends. CT angiogram of the chest showed segmental pulmonary embolism
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+42,22,F,being struck as a pedestrian,30,4,0,0,"ED TRAUMA H&P:
+22-year-old female was brought in by EMS after being struck as a pedestrian. On arrival to the trauma bay, initial vital signs showed heart rate 118 bpm, systolic blood pressure 98 mmHg (MAP approximately 75), respiratory rate in the mid 20s, and oxygen saturation 99% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. ventricular fibrillation arrest treated with ACLS and defibrillation
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. ventricular fibrillation arrest treated with ACLS and defibrillation
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,63,F,a fall from height,23,4,0,0,"ED TRAUMA H&P:
+63-year-old female was brought in by EMS after a fall from height. On arrival to the trauma bay, initial vital signs showed heart rate 98 bpm, systolic blood pressure 107 mmHg (MAP approximately 81), respiratory rate in the mid 20s, and oxygen saturation 99% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. started therapeutic anticoagulation for lower extremity DVT MRI confirmed osteomyelitis of the affected bone
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. started therapeutic anticoagulation for lower extremity DVT intraoperative findings consistent with osteomyelitis",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+44,78,M,a rollover motor vehicle crash,31,3,0,0,"ED TRAUMA H&P:
+78-year-old male was brought in by EMS after a rollover motor vehicle crash. On arrival to the trauma bay, initial vital signs showed heart rate 127 bpm, systolic blood pressure 128 mmHg (MAP approximately 95), respiratory rate in the mid 20s, and oxygen saturation 94% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. long-term IV antibiotics started for new osteomyelitis
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. duplex ultrasound positive for femoral DVT long-term IV antibiotics started for new osteomyelitis",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+45,33,M,a fall from height,20,9,4,1,"ED TRAUMA H&P:
+33-year-old male was brought in by EMS after a fall from height. On arrival to the trauma bay, initial vital signs showed heart rate 109 bpm, systolic blood pressure 108 mmHg (MAP approximately 82), respiratory rate in the mid 20s, and oxygen saturation 90% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed. met criteria for septic shock requiring vasopressors
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. rapid response team called and patient intubated unexpectedly
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+46,41,M,a fall from height,25,5,4,1,"ED TRAUMA H&P:
+41-year-old male was brought in by EMS after a fall from height. On arrival to the trauma bay, initial vital signs showed heart rate 90 bpm, systolic blood pressure 89 mmHg (MAP approximately 69), respiratory rate in the mid 20s, and oxygen saturation 88% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. started therapeutic anticoagulation for new PE MRI brain demonstrated acute infarct during hospitalization fever and new infiltrate on CXR in a ventilated patient, diagnosed as VAP
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends. fever and new infiltrate on CXR in a ventilated patient, diagnosed as VAP
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. worsening hypoxemia with bilateral infiltrates consistent with ARDS",0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+47,32,M,being struck as a pedestrian,34,4,0,0,"ED TRAUMA H&P:
+32-year-old male was brought in by EMS after being struck as a pedestrian. On arrival to the trauma bay, initial vital signs showed heart rate 102 bpm, systolic blood pressure 117 mmHg (MAP approximately 88), respiratory rate in the mid 20s, and oxygen saturation 90% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 13 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care. required unplanned OR visit for fixation revision
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. returned to the OR unexpectedly for postoperative bleeding control",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+48,20,F,a rollover motor vehicle crash,23,9,2,1,"ED TRAUMA H&P:
+20-year-old female was brought in by EMS after a rollover motor vehicle crash. On arrival to the trauma bay, initial vital signs showed heart rate 129 bpm, systolic blood pressure 83 mmHg (MAP approximately 65), respiratory rate in the mid 20s, and oxygen saturation 98% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed. respiratory culture positive with clinical findings consistent with ventilator-associated pneumonia
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends. new stage 2 sacral pressure ulcer identified during skin check
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged. new stage 2 sacral pressure ulcer identified during skin check",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+49,52,M,a rollover motor vehicle crash,18,8,0,0,"ED TRAUMA H&P:
+52-year-old male was brought in by EMS after a rollover motor vehicle crash. On arrival to the trauma bay, initial vital signs showed heart rate 101 bpm, systolic blood pressure 101 mmHg (MAP approximately 77), respiratory rate in the mid 20s, and oxygen saturation 99% on supplemental oxygen. The primary survey was completed per ATLS protocol. The patient had a GCS of 14 with no obvious focal neurologic deficits. CT imaging demonstrated multiple injuries consistent with high-energy blunt trauma.
+
+ICU DAY 1 PROGRESS NOTE:
+On ICU day 1, the patient remained hemodynamically tenuous but responsive to resuscitation. Continuous monitoring was maintained, and ventilatory and analgesia strategies were adjusted as needed.
+
+ICU DAY 2 PROGRESS NOTE:
+On ICU day 2, the patient's overall status evolved, with ongoing close monitoring of respiratory, cardiovascular, and renal function. Antibiotic therapy and venous thromboembolism prophylaxis were reassessed.
+
+ICU DAY 3 PROGRESS NOTE:
+On ICU day 3, the team focused on stabilization, early mobilization when feasible, and evaluation for possible stepdown from the ICU depending on respiratory and hemodynamic trends.
+
+WARD / FLOOR COURSE:
+After transfer out of the ICU, the patient continued recovery on the trauma ward. Pain control, physical therapy, and monitoring for hospital-acquired complications were emphasized. Nursing notes describe gradual improvement in mobility and participation in care.
+
+DISCHARGE SUMMARY:
+At the time of discharge, a detailed summary of the hospital course was documented, including injuries, operative and critical care management, and any complications encountered. Follow-up with trauma surgery and relevant specialty clinics was arranged.",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
