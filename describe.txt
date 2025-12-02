@@ -14,7 +14,15 @@ vent_days (Ventilator Days): Number of days the patient was on mechanical ventil
 
 ever_ventilated (Ever Ventilated): Indicator of whether the patient was mechanically ventilated at any point during the stay. [Binary 0/1]
 
+
+
+### INPUT of Info Extractor: ###
+
 note_text (Clinical Note Text): Full synthetic trauma and ICU clinical note for the encounter, including ED, ICU, ward, and discharge sections. [Free-text string]
+
+
+
+### Ground Truth: ###
 
 aki (Acute Kidney Injury): Whether the patient developed new acute kidney injury during the hospitalization. [Binary 0/1]
 
