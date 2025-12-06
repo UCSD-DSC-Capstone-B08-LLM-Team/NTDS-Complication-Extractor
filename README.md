@@ -42,8 +42,6 @@ Brief results will be shown in the console output. Detailed results will be stor
 │   ├── ntds_18_complications.json
 │   └── synthetic_ntds_trauma_notes_gemini.csv
 ├── environment.yml
-├── notebooks
-│   └── extraction.ipynb
 └── src
     ├── evaluation.py
     ├── extraction.py
