@@ -1,0 +1,15 @@
+{
+  "encounter_id": 0,
+  "complications_range": [0, 5],
+  "embedding_model": "llama3.1:8b",
+  "generation_model": "gemini-2.5-flash",
+  "k": 2,
+  "chunk_size": 1000,
+  "chunk_overlap": 200,
+  "data_dir": "./data",
+  "notes_file": "synthetic_ntds_trauma_notes_gemini.csv",
+  "complications_file": "ntds_18_complications.json",
+  "persist_directory": "./ntds_embeddings",
+  "output_file": "./results/assessment_results.json",
+  "verbose": false
+}
