@@ -6,6 +6,7 @@ Performs single-note RAG-based complication assessment for trauma patients.
 import sys
 import json
 import re
+import argparse
 import pandas as pd
 from pathlib import Path
 from dotenv import load_dotenv
@@ -377,9 +378,21 @@ def assess_all_complications(
 def main():
     """Main execution function."""
     try:
+        # 0. Parse command-line arguments
+        parser = argparse.ArgumentParser(
+            description="NTDS Complication Extractor - RAG-based complication assessment"
+        )
+        parser.add_argument(
+            "--config",
+            type=str,
+            default="config.json",
+            help="Path to configuration JSON file (default: config.json)"
+        )
+        args = parser.parse_args()
+
         # 1. Load config
         print("Loading configuration...")
-        config = load_config("config.json")
+        config = load_config(args.config)
 
         # 2. Initialize environment
         print("Initializing environment...")

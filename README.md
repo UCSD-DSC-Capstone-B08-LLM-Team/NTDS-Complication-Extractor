@@ -23,7 +23,11 @@ NOTE: You may use a different embedding model if you don't want to download this
 ```
 python src/extraction.py
 ```
-On the first run, it will take some about a minute to create the ChromaDB database. 
+You can also specify a custom config file path:
+```
+python src/extraction.py --config path/to/your/config.json
+```
+On the first run, it will take some about a minute to create the ChromaDB database.
 Brief results will be shown in the console output. Detailed results will be stored in results/
 
 ## File Structure
