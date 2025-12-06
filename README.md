@@ -34,17 +34,22 @@ On the first run, it will take some about a minute to create the ChromaDB databa
 Brief results will be shown in the console output. Detailed results will be stored in results/
 
 ## File Structure
-.
-├── README.md
-├── config.json
-├── data
-│   ├── describe.txt
-│   ├── ntds_18_complications.json
-│   └── synthetic_ntds_trauma_notes_gemini.csv
-├── environment.yml
-├── notebooks
-│   └── extraction.ipynb
-└── src
-    ├── evaluation.py
-    ├── extraction.py
-    └── vectorstore.py
+<pre>
+  <code>
+    📁 Project Root
+      ├── README.md
+      ├── config.json
+      ├── data
+      │   ├── describe.txt
+      │   ├── ntds_18_complications.json
+      │   └── synthetic_ntds_trauma_notes_gemini.csv
+      ├── environment.yml
+      ├── notebooks
+      │   └── extraction.ipynb
+      └── src
+          ├── evaluation.py
+          ├── extraction.py
+          ├── generate_synthetic_ntds_notes.py
+          └── vectorstore.py
+    </code>
+</pre>
