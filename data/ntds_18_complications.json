@@ -1,0 +1,182 @@
+[
+  {
+    "id": "aki",
+    "label": "Acute Kidney Injury",
+    "short_definition": "New kidney dysfunction during this hospitalization, such as a rise in serum creatinine or oliguria/anuria, not clearly present before admission.",
+    "positive_note_clues": [
+      "developed acute kidney injury with rising creatinine",
+      "oliguria requiring nephrology consultation",
+      "initiated dialysis for new renal failure"
+    ]
+  },
+  {
+    "id": "aws",
+    "label": "Alcohol Withdrawal Syndrome",
+    "short_definition": "Clinical alcohol withdrawal that began after admission, with symptoms such as tremor, agitation, hallucinations, or withdrawal seizures.",
+    "positive_note_clues": [
+      "placed on alcohol withdrawal protocol with high CIWA scores",
+      "developed agitation and tremors consistent with alcohol withdrawal",
+      "treated with benzodiazepines for withdrawal symptoms"
+    ]
+  },
+  {
+    "id": "ards",
+    "label": "Acute Respiratory Distress Syndrome",
+    "short_definition": "Acute hypoxemic respiratory failure with bilateral lung infiltrates not fully explained by cardiac failure or fluid overload, meeting ARDS criteria during the stay.",
+    "positive_note_clues": [
+      "worsening hypoxemia with bilateral infiltrates consistent with ARDS",
+      "met Berlin criteria for ARDS with low PaO2/FiO2 ratio",
+      "remains intubated on lung-protective ventilation for ARDS"
+    ]
+  },
+  {
+    "id": "cardiac_arrest_cpr",
+    "label": "Cardiac Arrest with CPR",
+    "short_definition": "In-hospital cardiac arrest during this admission that required chest compressions and advanced life support.",
+    "positive_note_clues": [
+      "code blue called for pulseless patient requiring chest compressions",
+      "ventricular fibrillation arrest treated with ACLS and defibrillation",
+      "return of spontaneous circulation after in-hospital cardiac arrest"
+    ]
+  },
+  {
+    "id": "cauti",
+    "label": "Catheter-Associated Urinary Tract Infection",
+    "short_definition": "Urinary tract infection that developed while the patient had an indwelling urinary catheter, meeting institutional or CDC criteria.",
+    "positive_note_clues": [
+      "developed fever and dysuria with positive urine culture while catheterized",
+      "diagnosed with catheter-associated urinary tract infection",
+      "started antibiotics for CAUTI after positive urine studies"
+    ]
+  },
+  {
+    "id": "delirium",
+    "label": "Delirium",
+    "short_definition": "New acute confusional state during hospitalization, with fluctuating attention or disorganized thinking, attributed to delirium rather than baseline dementia alone.",
+    "positive_note_clues": [
+      "CAM-ICU positive, consistent with delirium",
+      "intermittently disoriented and confused, diagnosed with delirium",
+      "started delirium precautions and nonpharmacologic measures"
+    ]
+  },
+  {
+    "id": "dvt",
+    "label": "Deep Venous Thrombosis / Thrombophlebitis",
+    "short_definition": "New deep vein thrombosis or clinically significant thrombophlebitis confirmed during the admission, excluding superficial IV site redness only.",
+    "positive_note_clues": [
+      "duplex ultrasound positive for femoral DVT",
+      "started therapeutic anticoagulation for lower extremity DVT",
+      "new upper extremity DVT around central line"
+    ]
+  },
+  {
+    "id": "mi",
+    "label": "Myocardial Infarction",
+    "short_definition": "Acute myocardial infarction that occurred during this hospitalization, supported by troponin elevation plus ischemic symptoms, ECG changes, or imaging.",
+    "positive_note_clues": [
+      "elevated troponin with ST-segment changes consistent with MI",
+      "diagnosed with non-ST elevation myocardial infarction during stay",
+      "cardiology consulted for in-hospital myocardial infarction"
+    ]
+  },
+  {
+    "id": "osteomyelitis",
+    "label": "Osteomyelitis",
+    "short_definition": "Bone infection diagnosed during the hospitalization by imaging, culture, or operative findings, not clearly present before admission.",
+    "positive_note_clues": [
+      "MRI confirmed osteomyelitis of the affected bone",
+      "intraoperative findings consistent with osteomyelitis",
+      "long-term IV antibiotics started for new osteomyelitis"
+    ]
+  },
+  {
+    "id": "pressure_ulcer",
+    "label": "Pressure Ulcer",
+    "short_definition": "New or worsened pressure ulcer that developed during this admission at or above the reportable stage per institutional policy.",
+    "positive_note_clues": [
+      "new stage 2 sacral pressure ulcer identified during skin check",
+      "preexisting ulcer progressed to a higher stage while inpatient",
+      "wound care consulted for hospital-acquired pressure injury"
+    ]
+  },
+  {
+    "id": "pe",
+    "label": "Pulmonary Embolism",
+    "short_definition": "New pulmonary embolism diagnosed during the hospitalization, typically confirmed by CT pulmonary angiography or other imaging.",
+    "positive_note_clues": [
+      "CT angiogram of the chest showed segmental pulmonary embolism",
+      "started therapeutic anticoagulation for new PE",
+      "V/Q scan positive for high-probability pulmonary embolism"
+    ]
+  },
+  {
+    "id": "severe_sepsis",
+    "label": "Severe Sepsis",
+    "short_definition": "Sepsis during the stay with associated organ dysfunction, hypoperfusion, or hypotension, meeting criteria for severe sepsis or septic shock.",
+    "positive_note_clues": [
+      "developed severe sepsis with hypotension and elevated lactate",
+      "met criteria for septic shock requiring vasopressors",
+      "broad-spectrum antibiotics and fluid resuscitation started for severe sepsis"
+    ]
+  },
+  {
+    "id": "stroke_cva",
+    "label": "Stroke / Cerebrovascular Accident",
+    "short_definition": "New ischemic or hemorrhagic stroke that occurred during this admission, confirmed clinically and/or by neuroimaging.",
+    "positive_note_clues": [
+      "new onset focal neurologic deficit with CT showing acute stroke",
+      "MRI brain demonstrated acute infarct during hospitalization",
+      "neurology consulted for in-hospital CVA"
+    ]
+  },
+  {
+    "id": "superficial_ssi",
+    "label": "Superficial Incisional Surgical Site Infection",
+    "short_definition": "Infection involving only the skin and subcutaneous tissue of an incision that developed after an operative procedure during this hospitalization.",
+    "positive_note_clues": [
+      "erythema and purulent drainage from the incision consistent with superficial SSI",
+      "wound opened at bedside for superficial surgical site infection",
+      "started antibiotics for superficial incisional infection"
+    ]
+  },
+  {
+    "id": "unplanned_icu_admission",
+    "label": "Unplanned Admission to ICU",
+    "short_definition": "Unexpected upgrade to ICU level of care from a lower level (ward, stepdown, OR, or PACU) that was not part of the original plan of care.",
+    "positive_note_clues": [
+      "patient transferred unexpectedly from floor to ICU for deterioration",
+      "unplanned admission to ICU due to respiratory failure",
+      "required escalation of care and unplanned ICU transfer"
+    ]
+  },
+  {
+    "id": "unplanned_intubation",
+    "label": "Unplanned Intubation",
+    "short_definition": "Endotracheal intubation that was not planned as part of a procedure or baseline ventilation strategy, performed emergently during the hospitalization.",
+    "positive_note_clues": [
+      "required emergent re-intubation on the ward for respiratory failure",
+      "unplanned intubation due to airway compromise",
+      "rapid response team called and patient intubated unexpectedly"
+    ]
+  },
+  {
+    "id": "unplanned_or_visit",
+    "label": "Unplanned Visit to the Operating Room",
+    "short_definition": "Return to the operating room that was not planned at the time of the index procedure, for complications such as bleeding, infection, or hardware issues.",
+    "positive_note_clues": [
+      "returned to the OR unexpectedly for postoperative bleeding control",
+      "unplanned trip to the operating room for washout of infected wound",
+      "required unplanned OR visit for fixation revision"
+    ]
+  },
+  {
+    "id": "vap",
+    "label": "Ventilator-Associated Pneumonia",
+    "short_definition": "Pneumonia that developed in a patient who had been mechanically ventilated for at least the required duration, meeting criteria for ventilator-associated pneumonia.",
+    "positive_note_clues": [
+      "fever and new infiltrate on CXR in a ventilated patient, diagnosed as VAP",
+      "respiratory culture positive with clinical findings consistent with ventilator-associated pneumonia",
+      "started antibiotics for suspected VAP after several days of mechanical ventilation"
+    ]
+  }
+]

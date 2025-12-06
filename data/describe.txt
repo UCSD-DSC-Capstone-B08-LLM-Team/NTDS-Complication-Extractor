@@ -1,0 +1,61 @@
+encounter_id (Encounter ID): Integer identifier for each synthetic hospitalization record. [Integer]
+
+age (Age): Patient age in years at the time of injury. [Integer]
+
+sex (Sex): Patient sex coded as "M" for male or "F" for female. [Categorical: {"M","F"}]
+
+mechanism (Injury Mechanism): Short description of how the injury occurred (for example, motor vehicle collision or fall). [String]
+
+iss (Injury Severity Score): Summary score reflecting overall anatomical injury severity. [Integer]
+
+icu_los_days (ICU Length of Stay in Days): Number of days the patient spent in the intensive care unit. [Integer]
+
+vent_days (Ventilator Days): Number of days the patient was on mechanical ventilation during the hospitalization. [Integer]
+
+ever_ventilated (Ever Ventilated): Indicator of whether the patient was mechanically ventilated at any point during the stay. [Binary 0/1]
+
+
+
+### INPUT of Info Extractor: ###
+
+note_text (Clinical Note Text): Full synthetic trauma and ICU clinical note for the encounter, including ED, ICU, ward, and discharge sections. [Free-text string]
+
+
+
+### Ground Truth: ###
+
+aki (Acute Kidney Injury): Whether the patient developed new acute kidney injury during the hospitalization. [Binary 0/1]
+
+aws (Alcohol Withdrawal Syndrome): Whether the patient experienced alcohol withdrawal after admission. [Binary 0/1]
+
+ards (Acute Respiratory Distress Syndrome): Whether the patient met criteria for acute respiratory distress syndrome during the stay. [Binary 0/1]
+
+cardiac_arrest_cpr (Cardiac Arrest with CPR): Whether the patient had an in-hospital cardiac arrest requiring chest compressions and advanced life support. [Binary 0/1]
+
+cauti (Catheter-Associated Urinary Tract Infection): Whether the patient developed a urinary tract infection associated with an indwelling catheter. [Binary 0/1]
+
+delirium (Delirium): Whether the patient developed an acute confusional state consistent with delirium. [Binary 0/1]
+
+dvt (Deep Venous Thrombosis / Thrombophlebitis): Whether the patient developed a new deep venous thrombosis or clinically significant thrombophlebitis. [Binary 0/1]
+
+mi (Myocardial Infarction): Whether the patient experienced an acute myocardial infarction during the admission. [Binary 0/1]
+
+osteomyelitis (Osteomyelitis): Whether the patient was diagnosed with osteomyelitis during the hospitalization. [Binary 0/1]
+
+pressure_ulcer (Pressure Ulcer): Whether the patient developed a new or worsened pressure ulcer while inpatient. [Binary 0/1]
+
+pe (Pulmonary Embolism): Whether the patient developed a new pulmonary embolism during the stay. [Binary 0/1]
+
+severe_sepsis (Severe Sepsis or Septic Shock): Whether the patient met criteria for severe sepsis or septic shock during the hospitalization. [Binary 0/1]
+
+stroke_cva (Stroke / Cerebrovascular Accident): Whether the patient experienced a new ischemic or hemorrhagic stroke during the admission. [Binary 0/1]
+
+superficial_ssi (Superficial Incisional Surgical Site Infection): Whether the patient developed a superficial incisional surgical site infection after an operation. [Binary 0/1]
+
+unplanned_icu_admission (Unplanned ICU Admission): Whether the patient had an unexpected admission or transfer to the intensive care unit. [Binary 0/1]
+
+unplanned_intubation (Unplanned Intubation): Whether the patient required an unplanned endotracheal intubation. [Binary 0/1]
+
+unplanned_or_visit (Unplanned Operating Room Visit): Whether the patient required an unplanned return or visit to the operating room. [Binary 0/1]
+
+vap (Ventilator-Associated Pneumonia): Whether the patient developed ventilator-associated pneumonia while on mechanical ventilation. [Binary 0/1]

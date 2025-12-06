@@ -1,0 +1,6 @@
+.DS_Store
+.env
+ntds_embeddings/
+.claude
+__pycache__
+results/
