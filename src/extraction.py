@@ -399,7 +399,7 @@ def main():
         load_dotenv()
 
         embeddings = OllamaEmbeddings(model=config["embedding_model"])
-        llm = ChatGoogleGenerativeAI(model=config["generation_model"])
+        llm = ChatGoogleGenerativeAI(model=config["generation_model"], temperature = 0)
 
         # 3. Load data
         print("\nLoading data...")
