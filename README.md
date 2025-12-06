@@ -15,9 +15,12 @@ conda env create -f environment.yml
 ollama pull llama3.1:8b
 ```
 NOTE: You may use a different embedding model if you don't want to download this. Specify the information in the config file
-3. Set up gemini API key to use a model. You can use the free API from [here](https://ai.google.dev/gemini-api/docs/api-key) to generate this API key. After generating the key, create a .env in the root and store the API key in there.
+3. Set up gemini API key to use a model. You can use the free API from [here](https://ai.google.dev/gemini-api/docs/api-key) to generate this API key. After generating the key, create a .env in the root and store the API key in there. Note that there is a rate limit of 10 LLM calls per minute in the free tier which may slow down if many conditions are tested for at once.
 
 4. Configure JSON file (config.json) as intended
+Important parameters:
+- Complication id: Integer from 0 to 49 should be specified for the complication to be used (from data/synthetic_ntds_trauma_notes_gemini.csv)
+- Complication range: Which all specific complications from NTDS-18 to use. [0, 18] will include all complications.
 
 5. Run python file
 ```
